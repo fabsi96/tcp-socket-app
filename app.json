@@ -1,0 +1,12 @@
+{
+  "name": "tcp-socket-app",
+  "displayName": "tcp-socket-app",
+  "expo": {
+    "name": "tcp-socket-app",
+    "slug": "tcp-socket-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
